@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\FuseboxInspection.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\FuseboxInspection.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.Vision.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.Vision.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.Vision.MeasurementStudioDemo.2008.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.MStudioCLM.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.Vision.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\bin\Release\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\obj\x86\Release\Fusebox Inspection.2008.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\obj\x86\Release\FuseboxInspection.Form1.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\obj\x86\Release\FuseboxInspection.Properties.Resources.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\obj\x86\Release\Fusebox Inspection.2008.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\obj\x86\Release\FuseboxInspection.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fusebox Inspection\cs\obj\x86\Release\FuseboxInspection.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rotating Part", "Rotating Part.2008.vbproj", "{68C3F51C-2B39-40DE-9F7B-1310ADD0E04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C3F51C-2B39-40DE-9F7B-1310ADD0E04A}.Debug|x86.ActiveCfg = Debug|x86
+		{68C3F51C-2B39-40DE-9F7B-1310ADD0E04A}.Debug|x86.Build.0 = Debug|x86
+		{68C3F51C-2B39-40DE-9F7B-1310ADD0E04A}.Release|x86.ActiveCfg = Release|x86
+		{68C3F51C-2B39-40DE-9F7B-1310ADD0E04A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

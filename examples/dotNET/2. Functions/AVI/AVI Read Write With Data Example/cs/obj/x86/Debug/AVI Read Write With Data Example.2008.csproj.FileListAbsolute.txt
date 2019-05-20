@@ -1,0 +1,1 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\AVI\AVI Read Write With Data Example\cs\bin\Debug\AVI Read Write With Data Example.exe.config

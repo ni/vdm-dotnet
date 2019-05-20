@@ -1,0 +1,1 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\2D Barcode\cs\bin\Debug\2D Barcode.exe.config

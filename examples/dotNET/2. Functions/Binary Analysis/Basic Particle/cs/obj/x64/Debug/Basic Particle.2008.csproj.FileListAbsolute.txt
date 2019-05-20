@@ -1,0 +1,22 @@
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\BasicParticle.exe.config
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\BasicParticle.exe
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\BasicParticle.pdb
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.Vision.Common.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.Vision.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.Vision.MeasurementStudioDemo.2008.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.UI.WindowsForms.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.UI.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.UI.WindowsForms.xml
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.UI.xml
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\obj\x64\Debug\BasicParticle.Form1.resources
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\obj\x64\Debug\BasicParticle.Form2.resources
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\obj\x64\Debug\BasicParticle.Properties.Resources.resources
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\obj\x64\Debug\Basic Particle.2008.csproj.GenerateResource.Cache
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\obj\x64\Debug\BasicParticle.exe
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\obj\x64\Debug\BasicParticle.pdb
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.Common.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\x64\Debug\NationalInstruments.Vision.pdb
+C:\Users\lvadmin\Desktop\New folder\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\obj\x64\Debug\Basic Particle.2008.csprojResolveAssemblyReference.cache

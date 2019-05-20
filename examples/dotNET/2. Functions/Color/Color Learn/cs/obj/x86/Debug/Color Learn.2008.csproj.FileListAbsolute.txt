@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\ColorLearn.exe.config
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\ColorLearn.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\ColorLearn.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\NationalInstruments.Vision.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\NationalInstruments.Vision.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\NationalInstruments.Vision.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\obj\x86\Debug\Color Learn.2008.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\obj\x86\Debug\ColorLearn.Form1.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\obj\x86\Debug\ColorLearn.Properties.Resources.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\obj\x86\Debug\Color Learn.2008.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\obj\x86\Debug\ColorLearn.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Color\Color Learn\cs\obj\x86\Debug\ColorLearn.pdb

@@ -1,0 +1,19 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\Find Edges.2008.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\FindEdges.Form1.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\FindEdges.Properties.Resources.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\Find Edges.2008.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\FindEdges.exe.config
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\FindEdges.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\FindEdges.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\NationalInstruments.Vision.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\NationalInstruments.Vision.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\NationalInstruments.Vision.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\FindEdges.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\FindEdges.pdb
+C:\P4V\Perforce\Vision\AppSoftware\VisionDevelopmentModule\DLL\development\19.1\nghosh\vdm-dotnet\examples\dotNET\2. Functions\Caliper\Find Edges\cs\bin\Debug\FindEdges.exe.config
+C:\P4V\Perforce\Vision\AppSoftware\VisionDevelopmentModule\DLL\development\19.1\nghosh\vdm-dotnet\examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\FindEdges.exe
+C:\P4V\Perforce\Vision\AppSoftware\VisionDevelopmentModule\DLL\development\19.1\nghosh\vdm-dotnet\examples\dotNET\2. Functions\Caliper\Find Edges\cs\obj\x86\Debug\FindEdges.pdb

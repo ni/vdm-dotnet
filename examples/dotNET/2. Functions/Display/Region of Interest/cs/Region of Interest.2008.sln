@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Region of Interest", "Region of Interest.2008.csproj", "{E9DF772B-1670-4D94-B95A-E66EADA74244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DF772B-1670-4D94-B95A-E66EADA74244}.Debug|x86.ActiveCfg = Debug|x86
+		{E9DF772B-1670-4D94-B95A-E66EADA74244}.Debug|x86.Build.0 = Debug|x86
+		{E9DF772B-1670-4D94-B95A-E66EADA74244}.Release|x86.ActiveCfg = Release|x86
+		{E9DF772B-1670-4D94-B95A-E66EADA74244}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

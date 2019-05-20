@@ -1,0 +1,1 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Fuse Inspection\cs\bin\x64\Debug\FuseInspection.exe.config

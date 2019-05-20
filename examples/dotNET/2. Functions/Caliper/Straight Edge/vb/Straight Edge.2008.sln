@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Straight Edge", "Straight Edge.2008.vbproj", "{E8A55C1A-3E05-4B99-A33C-B3F1A3536225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A55C1A-3E05-4B99-A33C-B3F1A3536225}.Debug|x86.ActiveCfg = Debug|x86
+		{E8A55C1A-3E05-4B99-A33C-B3F1A3536225}.Debug|x86.Build.0 = Debug|x86
+		{E8A55C1A-3E05-4B99-A33C-B3F1A3536225}.Release|x86.ActiveCfg = Release|x86
+		{E8A55C1A-3E05-4B99-A33C-B3F1A3536225}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

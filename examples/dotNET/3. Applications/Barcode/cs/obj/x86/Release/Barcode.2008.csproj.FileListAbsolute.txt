@@ -1,0 +1,17 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\Barcode.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\Barcode.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.Vision.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.Vision.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.Vision.MeasurementStudioDemo.2008.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.MStudioCLM.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.Vision.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\obj\x86\Release\Barcode.2008.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\obj\x86\Release\Barcode.Form1.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\obj\x86\Release\Barcode.Properties.Resources.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\obj\x86\Release\Barcode.2008.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\obj\x86\Release\Barcode.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\obj\x86\Release\Barcode.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Barcode\cs\bin\Release\NationalInstruments.Vision.Common.pdb

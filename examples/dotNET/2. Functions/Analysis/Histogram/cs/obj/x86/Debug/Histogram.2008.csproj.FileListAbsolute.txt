@@ -1,0 +1,1 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Histogram\cs\bin\Debug\Histogram.exe.config

@@ -1,0 +1,1 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Binary Analysis\Basic Particle\cs\bin\Debug\BasicParticle.exe.config

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mask", "Mask.2008.vbproj", "{B6864649-7CDB-4783-946F-BB76E7C51D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6864649-7CDB-4783-946F-BB76E7C51D56}.Debug|x86.ActiveCfg = Debug|x86
+		{B6864649-7CDB-4783-946F-BB76E7C51D56}.Debug|x86.Build.0 = Debug|x86
+		{B6864649-7CDB-4783-946F-BB76E7C51D56}.Release|x86.ActiveCfg = Release|x86
+		{B6864649-7CDB-4783-946F-BB76E7C51D56}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

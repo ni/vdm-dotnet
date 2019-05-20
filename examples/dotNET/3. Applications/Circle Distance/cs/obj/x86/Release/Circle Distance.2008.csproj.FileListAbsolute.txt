@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\CircleDistance.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\CircleDistance.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.Vision.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.Vision.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.MStudioCLM.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.Vision.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.Vision.Common.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\bin\Release\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\obj\x86\Release\Circle Distance.2008.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\obj\x86\Release\CircleDistance.Form1.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\obj\x86\Release\CircleDistance.Properties.Resources.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\obj\x86\Release\Circle Distance.2008.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\obj\x86\Release\CircleDistance.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\Circle Distance\cs\obj\x86\Release\CircleDistance.pdb

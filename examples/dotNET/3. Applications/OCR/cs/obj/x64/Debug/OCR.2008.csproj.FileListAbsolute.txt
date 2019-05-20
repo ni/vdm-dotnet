@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\OCR.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\OCR.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\NationalInstruments.Vision.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\NationalInstruments.Vision.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\NationalInstruments.Vision.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\obj\x64\Debug\OCR.2008.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\obj\x64\Debug\OCR.Form1.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\obj\x64\Debug\OCR.Properties.Resources.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\obj\x64\Debug\OCR.2008.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\obj\x64\Debug\OCR.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\obj\x64\Debug\OCR.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\3. Applications\OCR\cs\bin\x64\Debug\OCR.exe.config

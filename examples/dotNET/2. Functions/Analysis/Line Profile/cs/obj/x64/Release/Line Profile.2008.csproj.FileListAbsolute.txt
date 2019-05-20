@@ -1,0 +1,24 @@
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\LineProfile.exe.config
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\LineProfile.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\LineProfile.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Vision.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Vision.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Vision.MeasurementStudioDemo.2008.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.UI.WindowsForms.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.UI.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.MStudioCLM.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.UI.Styles3D.dll
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Vision.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Vision.MeasurementStudioDemo.2008.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.UI.WindowsForms.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.UI.xml
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\obj\x64\Release\Line Profile.2008.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\obj\x64\Release\LineProfile.Form1.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\obj\x64\Release\LineProfile.Properties.Resources.resources
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\obj\x64\Release\Line Profile.2008.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\obj\x64\Release\LineProfile.exe
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\obj\x64\Release\LineProfile.pdb
+C:\Users\Public\Documents\National Instruments\Vision\Examples\dotNET\2. Functions\Analysis\Line Profile\cs\bin\x64\Release\NationalInstruments.Vision.Common.pdb

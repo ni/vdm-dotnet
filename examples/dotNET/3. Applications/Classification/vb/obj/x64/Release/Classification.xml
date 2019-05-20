@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Classification
+</name>
+</assembly>
+<members>
+<member name="T:Classification.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Classification.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Classification.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Classification.ExampleImagesFolder">
+ <summary>
+ Class to get the NI Vision example images folder
+ </summary>
+</member>
+<member name="F:Classification.Form1.components">
+ <summary>
+ Required designer variable.
+ </summary>
+</member>
+<member name="M:Classification.Form1.Dispose(System.Boolean)">
+ <summary>
+ Clean up any resources being used.
+ </summary>
+ <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+</member>
+<member name="M:Classification.Form1.InitializeComponent">
+ <summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member>
+</members>
+</doc>

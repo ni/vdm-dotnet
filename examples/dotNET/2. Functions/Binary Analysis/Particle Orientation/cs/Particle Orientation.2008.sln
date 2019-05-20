@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Orientation", "Particle Orientation.2008.csproj", "{E4FEFEE4-F201-4A6C-BF24-5E41BC2BB564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4FEFEE4-F201-4A6C-BF24-5E41BC2BB564}.Debug|x86.ActiveCfg = Debug|x86
+		{E4FEFEE4-F201-4A6C-BF24-5E41BC2BB564}.Debug|x86.Build.0 = Debug|x86
+		{E4FEFEE4-F201-4A6C-BF24-5E41BC2BB564}.Release|x86.ActiveCfg = Release|x86
+		{E4FEFEE4-F201-4A6C-BF24-5E41BC2BB564}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
