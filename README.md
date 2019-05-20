@@ -78,7 +78,7 @@ Pick the first two assemblies from the path where you would save your custom bui
 
 #
 
-To report a bug specific to vdm-dotnet, please use the [Github Issues page](https://github/ni/vdm-dotnet/blob/master/.github/ISSUE_TEMPLATE.md).
+To report a bug specific to vdm-dotnet, please use the [Github Issues page](https://github.com/ni/vdm-dotnet/blob/master/.github/ISSUE_TEMPLATE.md).
 
 Fill in the issue template as completely as possible.
 
@@ -86,11 +86,11 @@ Fill in the issue template as completely as possible.
 
 #
 
-We welcome contributions! Please refer to [CONTRIBUTING.md](https://github/ni/vdm-dotnet/blob/master/CONTRIBUTING.md) page for information on how to contribute as well as what tests to add.
+We welcome contributions! Please refer to [CONTRIBUTING.md](https://github.com/ni/vdm-dotnet/blob/master/CONTRIBUTING.md) page for information on how to contribute as well as what tests to add.
 
 # License
 
 #
 
 
-**vdm-dotnet** is licensed under the [MIT License](https://github/ni/vdm-dotnet/blob/master/LICENSE)
+**vdm-dotnet** is licensed under the [MIT License](https://github.com/ni/vdm-dotnet/blob/master/LICENSE)
